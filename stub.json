@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a component to that takes name then show it in camelcase","md5":"4ad25514bf3491be9a4870aca49e23e8"}]}
+{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a ui component that takes user input then show it in camelcase","md5":"5516c6f09bf56e83c6177cbcc5cad1ef"}]}
